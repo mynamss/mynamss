@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there👋, I'm Nunung Ali Maulana</h1>
-<h3 align="center">A young-learner😄, <b>Junior Back End Developer</b> from Puwokerto, Indonesia</h3>
+<h3 align="center">A young-learner😄, <b>Junior Back End Developer</b></h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m **Fresh Graduate**
 
 - 👨‍💻 You can also check out my portfolio at [https://nunungalimaulana.netlify.app/](https://nunungalimaulana.netlify.app/)
 
