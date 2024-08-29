@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 You can also check out my portfolio at [https://nunungalimaulana.netlify.app/](https://nunungalimaulana.netlify.app/)
 
-- 💬 Ask me about **Express, Node.js, RDBMS**
+- 💬 Ask me about **Javascript, Golang, Express, Node.js, RDBMS, NoSQL**
 
 - 📫 How to reach me: **nunungalimaulana@gmail.com**
 
